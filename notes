@@ -1,0 +1,9 @@
+npm init
+ts --init
+tsconfig.json changed root and out dir
+package.json     "start": "tsc && node out/index.js"
+npm install request lodash --save
+
+added type definitions to help with .auto complete
+npm install @types/lodash @types/request --save-dev
+
